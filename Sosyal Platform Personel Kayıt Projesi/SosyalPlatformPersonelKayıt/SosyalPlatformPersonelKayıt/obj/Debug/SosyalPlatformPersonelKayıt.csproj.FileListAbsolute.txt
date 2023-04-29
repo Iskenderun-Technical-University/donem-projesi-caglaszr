@@ -9,3 +9,17 @@ C:\Users\Home\Desktop\proje\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelK
 C:\Users\Home\Desktop\proje\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelKayıt\obj\Debug\SosyalPlatformPersonelKayıt.csproj.CoreCompileInputs.cache
 C:\Users\Home\Desktop\proje\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelKayıt\obj\Debug\SosyalPlatformPersonelKayıt.exe
 C:\Users\Home\Desktop\proje\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelKayıt\obj\Debug\SosyalPlatformPersonelKayıt.pdb
+C:\Users\Home\Desktop\Sosyal Platform Personel Kayıt Projesi\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelKayıt\obj\Debug\SosyalPlatformPersonelKayıt.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Sosyal Platform Personel Kayıt Projesi\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelKayıt\obj\Debug\SosyalPlatformPersonelKayıt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Desktop\Sosyal Platform Personel Kayıt Projesi\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelKayıt\obj\Debug\SosyalPlatformPersonelKayıt.Form1.resources
+C:\Users\Home\Desktop\Sosyal Platform Personel Kayıt Projesi\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelKayıt\obj\Debug\SosyalPlatformPersonelKayıt.Properties.Resources.resources
+C:\Users\Home\Desktop\Sosyal Platform Personel Kayıt Projesi\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelKayıt\obj\Debug\SosyalPlatformPersonelKayıt.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Sosyal Platform Personel Kayıt Projesi\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelKayıt\obj\Debug\SosyalPlatformPersonelKayıt.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Sosyal Platform Personel Kayıt Projesi\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelKayıt\obj\Debug\SosyalPlatformPersonelKayıt.exe
+C:\Users\Home\Desktop\Sosyal Platform Personel Kayıt Projesi\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelKayıt\obj\Debug\SosyalPlatformPersonelKayıt.pdb
+C:\Users\Home\Desktop\Sosyal Platform Personel Kayıt Projesi\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelKayıt\bin\Debug\SosyalPlatformPersonelKayıt.exe.config
+C:\Users\Home\Desktop\Sosyal Platform Personel Kayıt Projesi\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelKayıt\bin\Debug\SosyalPlatformPersonelKayıt.exe
+C:\Users\Home\Desktop\Sosyal Platform Personel Kayıt Projesi\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelKayıt\bin\Debug\SosyalPlatformPersonelKayıt.pdb
+C:\Users\Home\Desktop\Sosyal Platform Personel Kayıt Projesi\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelKayıt\obj\Debug\SosyalPlatformPersonelKayıt.Frmİstatistik.resources
+C:\Users\Home\Desktop\Sosyal Platform Personel Kayıt Projesi\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelKayıt\obj\Debug\SosyalPlatformPersonelKayıt.FrmGrafikler.resources
+C:\Users\Home\Desktop\Sosyal Platform Personel Kayıt Projesi\SosyalPlatformPersonelKayıt\SosyalPlatformPersonelKayıt\obj\Debug\SosyalPlatformPersonelKayıt.FrmGiris.resources
